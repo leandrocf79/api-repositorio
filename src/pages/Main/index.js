@@ -37,8 +37,6 @@ export default function Main(){
    
     
 
-    
-
 
 
     function handleInputChange(e){

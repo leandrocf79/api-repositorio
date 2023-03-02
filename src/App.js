@@ -4,7 +4,7 @@ import Routes from './routes';
 import GlobalStyle from './styles/global'; //Usar dentro de um fragment <></>
 
 import { ToastContainer } from 'react-toastify';
-import 'react-toastify/dist/ReactToastify.css';
+import 'react-toastify/dist/ReactToastify.css'; // É assim mesmo a importação do css do toastify
 
 
 function App() {
